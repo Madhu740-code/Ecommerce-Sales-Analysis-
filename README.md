@@ -29,7 +29,7 @@ The images below provide a visual preview of every page in the dashboard.
 
 ### 🏠 1. Homepage  
 
-![Homepage Preview](/HOME%20PAGE.png)
+![Homepage Preview](/Home%20Page.png)
 
 The **Homepage** serves as the navigation hub of the report — giving users access to  
 Sales Analysis , Vendor Insights  in a clean and intuitive layout.
