@@ -20,6 +20,28 @@ The dashboard was built using **three Excel datasets**:
 3. **Vendor-Manager.xls** – Mapping of vendors to sales managers
 
 ---
+## Dashboard Preview – Report Pages  
+
+This Power BI solution consists of **two interactive report pages**, each designed with a specific analytical purpose.  
+The images below provide a visual preview of every page in the dashboard.
+
+---
+
+### 🏠 1. Homepage  
+
+![Homepage Preview](/HOME%20PAGE.jpeg)
+
+The **Homepage** serves as the navigation hub of the report — giving users access to  
+Sales Analysis , Vendor Insights  in a clean and intuitive layout.
+
+---
+### 📊 2. Drill through Page
+
+![Sales Analysis Preview](/SALES%20ANALYSIS%20PAGE.jpeg)
+
+Here in this page we find the detail drill through information about total sales, items sold by vendor
+
+
 
 ## 🗂 Data Model
 
