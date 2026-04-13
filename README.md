@@ -29,7 +29,7 @@ The images below provide a visual preview of every page in the dashboard.
 
 ### 🏠 1. Homepage  
 
-![Homepage Preview](/HOME%20PAGE.jpeg)
+![Homepage Preview](/HOME%20PAGE.png)
 
 The **Homepage** serves as the navigation hub of the report — giving users access to  
 Sales Analysis , Vendor Insights  in a clean and intuitive layout.
@@ -37,7 +37,7 @@ Sales Analysis , Vendor Insights  in a clean and intuitive layout.
 ---
 ### 📊 2. Drill through Page
 
-![Sales Analysis Preview](/SALES%20ANALYSIS%20PAGE.jpeg)
+![Sales Analysis Preview](/Drill%20Through%20Page.png)
 
 Here in this page we find the detail drill through information about total sales, items sold by vendor
 
